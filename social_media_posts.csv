@@ -1,0 +1,606 @@
+post_id,username,date,topic,hashtag,text,likes,retweets,replies
+1,user_189,2026-02-27 04:00,Sports,#Football,Really happy and excited about this Sports news! #Football,23.0,45,10
+2,user_9,2026-06-01 13:00,Sports,#Cricket,This Sports update is disappointing and poorly done. #Cricket,45.0,2,1
+3,user_144,2026-06-04 00:00,Technology,#Innovation,"This is the best Technology update I've seen, fantastic work! #Innovation",2.0,30,7
+4,user_115,2026-04-18 07:00,Entertainment,#Bollywood,Sharing details about the latest Entertainment developments. #Bollywood,61.0,0,28
+5,user_88,2026-06-28 13:00,Food,#Recipe,Here is an update about Food for everyone to see. #Recipe,89.0,3,1
+6,user_25,2026-01-24 12:00,Food,#Foodie,Really happy and excited about this Food news! #Foodie,10.0,5,5
+7,user_118,2026-01-12 23:00,Travel,#Explore,An update on Travel matters was released today. #Explore,28.0,5,7
+8,user_161,2026-05-22 09:00,Sports,#Cricket,"Sports news for today, check it out. #Cricket",7.0,5,3
+9,user_59,2026-01-12 21:00,Travel,#Travel,Feeling sad and upset about this Travel outcome. #Travel,30.0,23,1
+10,user_117,2026-04-08 08:00,Food,#Foodie,Just sharing some Food information today. #Foodie,36.0,13,0
+11,user_180,2026-06-21 08:00,Travel,#Vacation,Really happy and excited about this Travel news! #Vacation,46.0,2,0
+12,user_119,2026-03-04 05:00,Sports,#Match,This Sports news is terrible and frustrating to hear. #Match,148.0,50,13
+13,user_84,2026-02-26 21:00,Health,#MentalHealth,"This Health update made my day, absolutely brilliant! #MentalHealth",18.0,1,9
+14,user_17,2026-04-13 08:00,Technology,#Coding,"I absolutely love this Technology content, it's amazing! #Coding",29.0,1,5
+15,user_128,2026-02-24 20:00,Entertainment,#Celebrity,An update on Entertainment matters was released today. #Celebrity,1.0,36,2
+16,user_36,2026-02-06 08:00,Health,#Gym,Sharing details about the latest Health developments. #Gym,54.0,5,5
+17,user_150,2026-05-30 13:00,Entertainment,#Celebrity,An update on Entertainment matters was released today. #Celebrity,39.0,3,27
+18,user_194,2026-05-07 02:00,Health,#MentalHealth,"This is the best Health update I've seen, fantastic work! #MentalHealth",74.0,42,18
+19,user_153,2026-06-24 13:00,Technology,#Tech,Just sharing some Technology information today. #Tech,45.0,38,0
+20,user_142,2026-05-16 08:00,Sports,#WorldCup,"Wonderful experience with Sports today, feeling grateful! #WorldCup",10.0,0,3
+21,user_88,2026-03-10 20:00,Technology,#Innovation,"I really hate how this Technology situation turned out, so disappointing. #Innovation",24.0,4,14
+22,user_185,2026-01-01 23:00,Sports,#WorldCup,"This is the best Sports update I've seen, fantastic work! #WorldCup",22.0,4,6
+23,user_77,2026-01-28 20:00,Food,#Restaurant,Just sharing some Food information today. #Restaurant,7.0,24,0
+24,user_154,2026-05-16 00:00,Entertainment,#Bollywood,"This is the best Entertainment update I've seen, fantastic work! #Bollywood",216.0,22,1
+25,user_15,2026-03-20 07:00,Travel,#Explore,"I really hate how this Travel situation turned out, so disappointing. #Explore",0.0,25,9
+26,user_195,2026-05-05 02:00,Entertainment,#Movies,Here is an update about Entertainment for everyone to see. #Movies,65.0,22,0
+27,user_136,2026-02-12 08:00,Politics,#News,"Great job on this Politics thing, truly impressive! #News",22.0,1,15
+28,user_172,2026-03-21 12:00,Health,#Fitness,An update on Health matters was released today. #Fitness,48.0,6,0
+29,user_58,2026-01-31 07:00,Travel,#Adventure,This Travel update is disappointing and poorly done. #Adventure,18.0,5,10
+30,user_57,2026-02-28 18:00,Sports,#Match,"Wonderful experience with Sports today, feeling grateful! #Match",50.0,32,5
+31,user_9,2026-02-28 02:00,Technology,#AI,"This Technology update made my day, absolutely brilliant! #AI",6.0,18,11
+32,user_55,2026-06-21 15:00,Travel,#Explore,"This is the best Travel update I've seen, fantastic work! #Explore",41.0,22,5
+33,user_122,2026-05-02 07:00,Politics,#News,An update on Politics matters was released today. #News,36.0,8,0
+34,user_106,2026-04-01 13:00,Health,#Gym,"I absolutely love this Health content, it's amazing! #Gym",5.0,0,8
+35,user_187,2026-01-16 12:00,Education,#Education,Here is an update about Education for everyone to see. #Education,18.0,10,19
+36,user_138,2026-02-19 06:00,Travel,#Vacation,Here is an update about Travel for everyone to see. #Vacation,14.0,7,11
+37,user_20,2026-04-29 07:00,Education,#Students,"This is the best Education update I've seen, fantastic work! #Students",12.0,1,2
+38,user_139,2026-01-13 20:00,Education,#Education,An update on Education matters was released today. #Education,8.0,39,13
+39,user_124,2026-04-15 15:00,Technology,#Tech,Just sharing some Technology information today. #Tech,50.0,30,13
+40,user_100,2026-04-08 00:00,Entertainment,#Music,Here is an update about Entertainment for everyone to see. #Music,10.0,33,6
+41,user_188,2026-04-19 22:00,Food,#Cooking,"Food news for today, check it out. #Cooking",82.0,33,3
+42,user_189,2026-01-15 18:00,Education,#Learning,Really happy and excited about this Education news! #Learning,5.0,3,4
+43,user_129,2026-05-30 15:00,Technology,#AI,Here is an update about Technology for everyone to see. #AI,85.0,29,0
+44,user_153,2026-02-17 02:00,Politics,#Politics,"Wonderful experience with Politics today, feeling grateful! #Politics",35.0,8,2
+45,user_64,2026-01-31 18:00,Sports,#WorldCup,This Sports news is terrible and frustrating to hear. #WorldCup,,6,22
+46,user_81,2026-05-25 16:00,Technology,#Innovation,"I'm so angry about this Technology decision, it's awful. #Innovation",19.0,10,9
+47,user_102,2026-03-03 08:00,Food,#Cooking,"This Food update made my day, absolutely brilliant! #Cooking",22.0,53,26
+48,user_3,2026-03-22 02:00,Politics,#Policy,"Worst experience ever with Politics, totally unacceptable. #Policy",14.0,10,2
+49,user_55,2026-01-19 17:00,Education,#Education,This Education update is disappointing and poorly done. #Education,16.0,0,7
+50,user_73,2026-03-04 11:00,Food,#Foodie,Really happy and excited about this Food news! #Foodie,34.0,0,2
+51,user_136,2026-06-06 20:00,Politics,#Government,This Politics update is disappointing and poorly done. #Government,119.0,4,1
+52,user_35,2026-06-19 03:00,Technology,#Coding,This Technology update is disappointing and poorly done. #Coding,33.0,63,2
+53,user_73,2026-02-09 08:00,Food,#Restaurant,"I absolutely love this Food content, it's amazing! #Restaurant",,21,2
+54,user_65,2026-05-10 15:00,Entertainment,#Celebrity,Just sharing some Entertainment information today. #Celebrity,65.0,6,8
+55,user_86,2026-01-12 00:00,Technology,#Coding,"Great job on this Technology thing, truly impressive! #Coding",50.0,11,0
+56,user_181,2026-04-24 17:00,Politics,#Election,"Worst experience ever with Politics, totally unacceptable. #Election",90.0,5,1
+57,user_140,2026-06-26 04:00,Health,#Health,"I really hate how this Health situation turned out, so disappointing. #Health",2.0,13,9
+58,user_33,2026-02-07 13:00,Technology,#Innovation,An update on Technology matters was released today. #Innovation,0.0,10,2
+59,user_64,2026-02-23 21:00,Technology,#Coding,"I absolutely love this Technology content, it's amazing! #Coding",51.0,2,9
+60,user_40,2026-06-08 23:00,Sports,#WorldCup,"Wonderful experience with Sports today, feeling grateful! #WorldCup",24.0,41,1
+61,user_189,2026-01-07 05:00,Entertainment,#Drama,Just sharing some Entertainment information today. #Drama,20.0,1,20
+62,user_180,2026-03-10 05:00,Travel,#Vacation,"Travel news for today, check it out. #Vacation",104.0,4,8
+63,user_118,2026-02-26 06:00,Sports,#WorldCup,"I absolutely love this Sports content, it's amazing! #WorldCup",84.0,12,6
+64,user_50,2026-01-07 21:00,Travel,#Vacation,"This is the best Travel update I've seen, fantastic work! #Vacation",13.0,1,18
+65,user_131,2026-03-31 20:00,Health,#Wellness,"I absolutely love this Health content, it's amazing! #Wellness",115.0,15,3
+66,user_67,2026-01-08 03:00,Health,#Wellness,This Health update is disappointing and poorly done. #Wellness,21.0,19,18
+67,user_112,2026-01-28 19:00,Politics,#Politics,"Worst experience ever with Politics, totally unacceptable. #Politics",109.0,22,8
+68,user_30,2026-06-05 16:00,Travel,#Adventure,This is a report regarding recent Travel activity. #Adventure,4.0,2,18
+69,user_112,2026-01-12 22:00,Health,#Wellness,Just sharing some Health information today. #Wellness,46.0,0,0
+70,user_18,2026-04-04 13:00,Technology,#Tech,This Technology update is disappointing and poorly done. #Tech,54.0,0,1
+71,user_80,2026-03-18 16:00,Travel,#Travel,Feeling sad and upset about this Travel outcome. #Travel,39.0,17,8
+72,user_50,2026-05-22 04:00,Health,#Wellness,"This Health update made my day, absolutely brilliant! #Wellness",12.0,18,2
+73,user_78,2026-06-07 18:00,Health,#Fitness,"I'm so angry about this Health decision, it's awful. #Fitness",19.0,20,8
+74,user_111,2026-03-15 06:00,Health,#Wellness,"I really hate how this Health situation turned out, so disappointing. #Wellness",94.0,16,6
+75,user_189,2026-05-11 15:00,Travel,#Vacation,"I'm so angry about this Travel decision, it's awful. #Vacation",4.0,6,2
+76,user_159,2026-06-19 20:00,Politics,#News,"Worst experience ever with Politics, totally unacceptable. #News",13.0,54,3
+77,user_38,2026-02-27 06:00,Travel,#Explore,"This is the best Travel update I've seen, fantastic work! #Explore",111.0,14,12
+78,user_107,2026-01-19 14:00,Technology,#Innovation,"Great job on this Technology thing, truly impressive! #Innovation",34.0,12,5
+79,user_38,2026-04-13 07:00,Entertainment,#Drama,"Entertainment news for today, check it out. #Drama",10.0,19,2
+80,user_179,2026-02-26 05:00,Technology,#Gadgets,Here is an update about Technology for everyone to see. #Gadgets,1.0,15,1
+81,user_119,2026-04-27 04:00,Education,#Education,"This is the best Education update I've seen, fantastic work! #Education",141.0,46,19
+82,user_141,2026-05-10 13:00,Travel,#Wanderlust,"Travel news for today, check it out. #Wanderlust",23.0,0,21
+83,user_193,2026-04-26 08:00,Education,#OnlineClass,Sharing details about the latest Education developments. #OnlineClass,27.0,51,26
+84,user_62,2026-05-05 20:00,Entertainment,#Bollywood,This is a report regarding recent Entertainment activity. #Bollywood,95.0,5,3
+85,user_86,2026-03-02 08:00,Food,#Cooking,Feeling sad and upset about this Food outcome. #Cooking,95.0,5,1
+86,user_99,2026-02-08 07:00,Travel,#Vacation,Here is an update about Travel for everyone to see. #Vacation,40.0,41,9
+87,user_139,2026-04-15 10:00,Politics,#Policy,Here is an update about Politics for everyone to see. #Policy,42.0,1,7
+88,user_179,2026-04-10 18:00,Education,#OnlineClass,This Education news is terrible and frustrating to hear. #OnlineClass,230.0,2,5
+89,user_91,2026-05-03 00:00,Technology,#Gadgets,An update on Technology matters was released today. #Gadgets,104.0,20,9
+90,user_57,2026-05-20 19:00,Food,#Restaurant,"Food news for today, check it out. #Restaurant",60.0,6,2
+91,user_87,2026-01-08 12:00,Education,#OnlineClass,"Great job on this Education thing, truly impressive! #OnlineClass",82.0,24,16
+92,user_7,2026-06-09 17:00,Health,#Fitness,"Health news for today, check it out. #Fitness",122.0,10,5
+93,user_110,2026-01-22 20:00,Health,#Health,Feeling sad and upset about this Health outcome. #Health,80.0,15,9
+94,user_84,2026-03-08 12:00,Politics,#Politics,Just sharing some Politics information today. #Politics,79.0,33,3
+95,user_65,2026-03-13 13:00,Entertainment,#Drama,"Worst experience ever with Entertainment, totally unacceptable. #Drama",23.0,1,6
+96,user_58,2026-01-14 11:00,Sports,#Match,Feeling sad and upset about this Sports outcome. #Match,1.0,9,6
+97,user_52,2026-01-08 07:00,Sports,#Cricket,Sharing details about the latest Sports developments. #Cricket,16.0,13,0
+98,user_30,2026-05-02 21:00,Technology,#Tech,This Technology news is terrible and frustrating to hear. #Tech,1.0,25,3
+99,user_156,2026-02-12 19:00,Entertainment,#Celebrity,"Worst experience ever with Entertainment, totally unacceptable. #Celebrity",6.0,11,11
+100,user_7,2026-01-28 18:00,Sports,#Sports,Just sharing some Sports information today. #Sports,12.0,14,0
+101,user_152,2026-02-20 02:00,Food,#Delicious,"I'm so angry about this Food decision, it's awful. #Delicious",2.0,11,6
+102,user_11,2026-01-31 18:00,Entertainment,#Bollywood,Really happy and excited about this Entertainment news! #Bollywood,50.0,19,29
+103,user_166,2026-01-18 16:00,Travel,#Explore,Feeling sad and upset about this Travel outcome. #Explore,36.0,5,12
+104,user_93,2026-01-28 13:00,Travel,#Adventure,"Great job on this Travel thing, truly impressive! #Adventure",15.0,8,0
+105,user_70,2026-05-14 20:00,Education,#Learning,"Education news for today, check it out. #Learning",1.0,49,14
+106,user_63,2026-03-10 10:00,Education,#Study,Feeling sad and upset about this Education outcome. #Study,59.0,7,1
+107,user_157,2026-04-29 18:00,Sports,#Football,"Great job on this Sports thing, truly impressive! #Football",8.0,4,6
+108,user_55,2026-02-16 15:00,Health,#Wellness,"Great job on this Health thing, truly impressive! #Wellness",62.0,16,2
+109,user_71,2026-06-02 22:00,Travel,#Explore,This is a report regarding recent Travel activity. #Explore,154.0,20,6
+110,user_105,2026-03-03 23:00,Technology,#AI,This Technology news is terrible and frustrating to hear. #AI,47.0,8,2
+111,user_126,2026-06-15 22:00,Education,#OnlineClass,This Education news is terrible and frustrating to hear. #OnlineClass,22.0,21,0
+112,user_178,2026-02-26 12:00,Education,#Students,Here is an update about Education for everyone to see. #Students,6.0,0,0
+113,user_136,2026-05-02 17:00,Entertainment,#Celebrity,"Wonderful experience with Entertainment today, feeling grateful! #Celebrity",96.0,18,5
+114,user_180,2026-03-26 11:00,Travel,#Wanderlust,Feeling sad and upset about this Travel outcome. #Wanderlust,5.0,10,5
+115,user_50,2026-01-31 23:00,Education,#Learning,Really happy and excited about this Education news! #Learning,9.0,8,4
+116,user_190,2026-02-19 06:00,Travel,#Vacation,"Wonderful experience with Travel today, feeling grateful! #Vacation",47.0,15,0
+117,user_26,2026-06-02 09:00,Education,#Study,"Wonderful experience with Education today, feeling grateful! #Study",23.0,14,5
+118,user_182,2026-03-19 00:00,Entertainment,#Music,Really happy and excited about this Entertainment news! #Music,97.0,16,1
+119,user_33,2026-03-16 22:00,Politics,#News,"I absolutely love this Politics content, it's amazing! #News",3.0,15,0
+120,user_123,2026-03-14 15:00,Education,#Study,"I absolutely love this Education content, it's amazing! #Study",44.0,42,6
+121,user_17,2026-05-03 03:00,Education,#Students,"I absolutely love this Education content, it's amazing! #Students",24.0,15,4
+122,user_145,2026-02-08 04:00,Health,#Health,This Health update is disappointing and poorly done. #Health,39.0,42,3
+123,user_156,2026-05-23 13:00,Food,#Foodie,"This is the best Food update I've seen, fantastic work! #Foodie",162.0,35,1
+124,user_151,2026-04-24 09:00,Entertainment,#Drama,"Entertainment news for today, check it out. #Drama",3.0,1,0
+125,user_26,2026-06-06 23:00,Health,#Health,"Wonderful experience with Health today, feeling grateful! #Health",4.0,17,0
+126,user_45,2026-02-10 07:00,Entertainment,#Movies,"Worst experience ever with Entertainment, totally unacceptable. #Movies",19.0,27,0
+127,user_121,2026-06-26 19:00,Sports,#WorldCup,"Great job on this Sports thing, truly impressive! #WorldCup",84.0,4,1
+128,user_19,2026-06-29 14:00,Food,#Cooking,Really happy and excited about this Food news! #Cooking,59.0,14,16
+129,user_109,2026-06-19 06:00,Entertainment,#Bollywood,Sharing details about the latest Entertainment developments. #Bollywood,66.0,24,2
+130,user_19,2026-03-10 04:00,Sports,#Football,Feeling sad and upset about this Sports outcome. #Football,9.0,20,13
+131,user_113,2026-05-26 09:00,Technology,#Innovation,Really happy and excited about this Technology news! #Innovation,232.0,7,3
+132,user_139,2026-03-11 16:00,Sports,#WorldCup,"Worst experience ever with Sports, totally unacceptable. #WorldCup",74.0,6,21
+133,user_83,2026-04-21 23:00,Education,#Education,This Education update is disappointing and poorly done. #Education,97.0,8,11
+134,user_196,2026-05-31 00:00,Food,#Restaurant,"This is the best Food update I've seen, fantastic work! #Restaurant",70.0,1,18
+135,user_114,2026-05-13 20:00,Food,#Delicious,This Food news is terrible and frustrating to hear. #Delicious,35.0,26,3
+136,user_24,2026-06-12 15:00,Food,#Delicious,"Wonderful experience with Food today, feeling grateful! #Delicious",112.0,7,0
+137,user_42,2026-06-21 03:00,Education,#Students,Really happy and excited about this Education news! #Students,117.0,1,3
+138,user_195,2026-06-19 12:00,Travel,#Explore,"I'm so angry about this Travel decision, it's awful. #Explore",149.0,45,6
+139,user_198,2026-03-24 03:00,Technology,#Coding,"Worst experience ever with Technology, totally unacceptable. #Coding",49.0,8,2
+140,user_14,2026-04-29 13:00,Health,#MentalHealth,Here is an update about Health for everyone to see. #MentalHealth,19.0,16,11
+141,user_195,2026-06-10 14:00,Entertainment,#Drama,This Entertainment update is disappointing and poorly done. #Drama,78.0,23,0
+142,user_179,2026-03-15 14:00,Technology,#Tech,"Wonderful experience with Technology today, feeling grateful! #Tech",34.0,0,6
+143,user_41,2026-03-03 22:00,Education,#Study,"This Education update made my day, absolutely brilliant! #Study",29.0,32,3
+144,user_30,2026-01-24 07:00,Food,#Delicious,This Food update is disappointing and poorly done. #Delicious,6.0,2,11
+145,user_75,2026-05-08 22:00,Education,#Learning,Sharing details about the latest Education developments. #Learning,48.0,1,0
+146,user_142,2026-03-04 14:00,Food,#Delicious,"I'm so angry about this Food decision, it's awful. #Delicious",60.0,1,13
+147,user_71,2026-02-04 02:00,Politics,#News,"Wonderful experience with Politics today, feeling grateful! #News",61.0,1,0
+148,user_186,2026-01-01 09:00,Health,#Wellness,"Wonderful experience with Health today, feeling grateful! #Wellness",215.0,7,3
+149,user_138,2026-02-08 14:00,Food,#Delicious,An update on Food matters was released today. #Delicious,83.0,44,34
+150,user_83,2026-04-07 14:00,Education,#Study,"Wonderful experience with Education today, feeling grateful! #Study",69.0,7,0
+151,user_199,2026-04-09 07:00,Entertainment,#Bollywood,Just sharing some Entertainment information today. #Bollywood,75.0,12,4
+152,user_99,2026-06-30 12:00,Health,#Gym,"This Health update made my day, absolutely brilliant! #Gym",118.0,1,5
+153,user_85,2026-05-09 18:00,Politics,#Election,"I really hate how this Politics situation turned out, so disappointing. #Election",0.0,9,0
+154,user_4,2026-05-15 14:00,Sports,#Cricket,"Sports news for today, check it out. #Cricket",6.0,1,8
+155,user_68,2026-01-20 15:00,Politics,#Election,Feeling sad and upset about this Politics outcome. #Election,68.0,13,26
+156,user_137,2026-03-26 21:00,Travel,#Travel,"I'm so angry about this Travel decision, it's awful. #Travel",23.0,5,16
+157,user_159,2026-05-19 01:00,Health,#Gym,Sharing details about the latest Health developments. #Gym,12.0,49,0
+158,user_24,2026-02-28 23:00,Sports,#Sports,"This Sports update made my day, absolutely brilliant! #Sports",175.0,0,17
+159,user_178,2026-04-24 05:00,Health,#Health,Sharing details about the latest Health developments. #Health,37.0,74,0
+160,user_92,2026-01-15 09:00,Food,#Cooking,Here is an update about Food for everyone to see. #Cooking,40.0,52,5
+161,user_175,2026-04-16 18:00,Travel,#Wanderlust,This Travel news is terrible and frustrating to hear. #Wanderlust,49.0,17,4
+162,user_175,2026-04-08 19:00,Politics,#News,"I absolutely love this Politics content, it's amazing! #News",49.0,13,18
+163,user_164,2026-03-01 14:00,Entertainment,#Music,This Entertainment update is disappointing and poorly done. #Music,2.0,4,24
+164,user_174,2026-04-30 09:00,Food,#Foodie,Feeling sad and upset about this Food outcome. #Foodie,110.0,9,7
+165,user_109,2026-03-18 20:00,Politics,#News,Really happy and excited about this Politics news! #News,16.0,3,4
+166,user_28,2026-04-09 15:00,Food,#Recipe,"Worst experience ever with Food, totally unacceptable. #Recipe",21.0,13,0
+167,user_76,2026-03-17 22:00,Entertainment,#Bollywood,Really happy and excited about this Entertainment news! #Bollywood,183.0,64,9
+168,user_145,2026-03-12 00:00,Technology,#Gadgets,Sharing details about the latest Technology developments. #Gadgets,38.0,5,13
+169,user_156,2026-03-15 07:00,Technology,#Gadgets,Sharing details about the latest Technology developments. #Gadgets,57.0,2,19
+170,user_194,2026-03-06 21:00,Travel,#Wanderlust,"This is the best Travel update I've seen, fantastic work! #Wanderlust",,44,10
+171,user_9,2026-03-21 14:00,Politics,#Politics,Feeling sad and upset about this Politics outcome. #Politics,47.0,8,21
+172,user_107,2026-03-25 23:00,Travel,#Explore,Here is an update about Travel for everyone to see. #Explore,100.0,0,0
+173,user_70,2026-05-16 16:00,Politics,#Government,"Wonderful experience with Politics today, feeling grateful! #Government",23.0,24,34
+174,user_120,2026-03-28 03:00,Politics,#Government,"Great job on this Politics thing, truly impressive! #Government",8.0,13,3
+175,user_24,2026-05-23 11:00,Sports,#WorldCup,"This is the best Sports update I've seen, fantastic work! #WorldCup",175.0,27,14
+176,user_173,2026-04-27 11:00,Health,#Health,"Wonderful experience with Health today, feeling grateful! #Health",,8,2
+177,user_60,2026-01-28 21:00,Food,#Cooking,Feeling sad and upset about this Food outcome. #Cooking,2.0,30,13
+178,user_166,2026-06-06 07:00,Education,#Students,"Wonderful experience with Education today, feeling grateful! #Students",408.0,85,6
+179,user_30,2026-06-16 13:00,Sports,#Sports,"I'm so angry about this Sports decision, it's awful. #Sports",73.0,43,15
+180,user_25,2026-05-07 03:00,Politics,#Government,"I absolutely love this Politics content, it's amazing! #Government",14.0,8,1
+181,user_172,2026-04-27 11:00,Entertainment,#Drama,Just sharing some Entertainment information today. #Drama,154.0,13,2
+182,user_26,2026-04-17 20:00,Health,#Fitness,Feeling sad and upset about this Health outcome. #Fitness,55.0,14,3
+183,user_56,2026-06-26 11:00,Education,#Education,"Worst experience ever with Education, totally unacceptable. #Education",6.0,16,5
+184,user_95,2026-01-26 21:00,Education,#Students,This Education news is terrible and frustrating to hear. #Students,73.0,11,15
+185,user_24,2026-02-01 14:00,Travel,#Vacation,Really happy and excited about this Travel news! #Vacation,40.0,12,16
+186,user_63,2026-01-13 10:00,Entertainment,#Movies,This Entertainment update is disappointing and poorly done. #Movies,25.0,2,0
+187,user_151,2026-05-22 06:00,Politics,#Politics,Just sharing some Politics information today. #Politics,70.0,14,9
+188,user_1,2026-02-07 19:00,Entertainment,#Celebrity,Just sharing some Entertainment information today. #Celebrity,11.0,2,0
+189,user_45,2026-05-19 08:00,Food,#Recipe,Just sharing some Food information today. #Recipe,21.0,13,3
+190,user_61,2026-01-04 11:00,Sports,#Football,"I really hate how this Sports situation turned out, so disappointing. #Football",28.0,35,3
+191,user_108,2026-02-02 23:00,Travel,#Travel,Really happy and excited about this Travel news! #Travel,36.0,22,4
+192,user_152,2026-04-03 16:00,Sports,#WorldCup,"Sports news for today, check it out. #WorldCup",48.0,29,23
+193,user_169,2026-01-12 23:00,Sports,#Match,This Sports news is terrible and frustrating to hear. #Match,7.0,39,5
+194,user_110,2026-05-03 12:00,Food,#Foodie,"I really hate how this Food situation turned out, so disappointing. #Foodie",14.0,9,31
+195,user_156,2026-01-21 10:00,Sports,#Cricket,"I'm so angry about this Sports decision, it's awful. #Cricket",33.0,5,8
+196,user_141,2026-06-12 18:00,Politics,#News,Really happy and excited about this Politics news! #News,13.0,1,1
+197,user_130,2026-03-17 14:00,Travel,#Wanderlust,"Wonderful experience with Travel today, feeling grateful! #Wanderlust",6.0,2,1
+198,user_197,2026-06-17 20:00,Health,#Health,"This Health update made my day, absolutely brilliant! #Health",51.0,3,3
+199,user_103,2026-03-28 14:00,Entertainment,#Drama,This Entertainment news is terrible and frustrating to hear. #Drama,113.0,9,8
+200,user_66,2026-03-22 21:00,Health,#Gym,This is a report regarding recent Health activity. #Gym,9.0,3,0
+201,user_22,2026-01-18 02:00,Travel,#Adventure,Sharing details about the latest Travel developments. #Adventure,9.0,4,1
+202,user_16,2026-02-03 17:00,Sports,#Sports,Feeling sad and upset about this Sports outcome. #Sports,4.0,1,4
+203,user_185,2026-06-20 13:00,Travel,#Explore,"I'm so angry about this Travel decision, it's awful. #Explore",11.0,6,5
+204,user_148,2026-04-01 03:00,Technology,#Coding,An update on Technology matters was released today. #Coding,58.0,0,12
+205,user_143,2026-01-28 11:00,Entertainment,#Music,"Great job on this Entertainment thing, truly impressive! #Music",49.0,1,16
+206,user_144,2026-02-27 13:00,Travel,#Wanderlust,Really happy and excited about this Travel news! #Wanderlust,126.0,0,2
+207,user_70,2026-01-08 05:00,Technology,#Coding,Feeling sad and upset about this Technology outcome. #Coding,82.0,20,1
+208,user_145,2026-02-16 04:00,Food,#Foodie,This is a report regarding recent Food activity. #Foodie,11.0,6,5
+209,user_136,2026-01-24 23:00,Health,#Health,"This Health update made my day, absolutely brilliant! #Health",48.0,6,4
+210,user_80,2026-02-10 11:00,Entertainment,#Celebrity,"Great job on this Entertainment thing, truly impressive! #Celebrity",68.0,0,2
+211,user_40,2026-01-22 01:00,Travel,#Wanderlust,An update on Travel matters was released today. #Wanderlust,62.0,33,5
+212,user_170,2026-03-11 14:00,Politics,#Politics,Here is an update about Politics for everyone to see. #Politics,,1,4
+213,user_194,2026-03-11 06:00,Health,#Gym,"I'm so angry about this Health decision, it's awful. #Gym",38.0,4,2
+214,user_152,2026-06-23 21:00,Sports,#Sports,"I absolutely love this Sports content, it's amazing! #Sports",23.0,0,3
+215,user_154,2026-02-26 12:00,Education,#Education,"Worst experience ever with Education, totally unacceptable. #Education",11.0,5,1
+216,user_75,2026-02-05 08:00,Technology,#Tech,Really happy and excited about this Technology news! #Tech,110.0,13,9
+217,user_98,2026-02-14 04:00,Travel,#Adventure,"Great job on this Travel thing, truly impressive! #Adventure",77.0,10,0
+218,user_190,2026-01-19 12:00,Entertainment,#Celebrity,Feeling sad and upset about this Entertainment outcome. #Celebrity,38.0,13,10
+219,user_110,2026-03-22 18:00,Technology,#AI,"I'm so angry about this Technology decision, it's awful. #AI",28.0,2,2
+220,user_6,2026-01-30 12:00,Health,#Wellness,"Health news for today, check it out. #Wellness",22.0,15,6
+221,user_23,2026-06-26 11:00,Travel,#Adventure,"Wonderful experience with Travel today, feeling grateful! #Adventure",22.0,64,7
+222,user_135,2026-05-31 12:00,Health,#Gym,Just sharing some Health information today. #Gym,13.0,1,1
+223,user_200,2026-02-26 10:00,Sports,#Sports,Really happy and excited about this Sports news! #Sports,14.0,2,1
+224,user_50,2026-05-16 16:00,Politics,#Politics,"This Politics update made my day, absolutely brilliant! #Politics",16.0,2,18
+225,user_38,2026-03-02 03:00,Travel,#Vacation,"This Travel update made my day, absolutely brilliant! #Vacation",,11,4
+226,user_46,2026-06-17 02:00,Food,#Recipe,"Wonderful experience with Food today, feeling grateful! #Recipe",201.0,1,4
+227,user_145,2026-04-25 21:00,Education,#Study,This Education update is disappointing and poorly done. #Study,174.0,30,13
+228,user_18,2026-02-08 14:00,Travel,#Explore,Sharing details about the latest Travel developments. #Explore,14.0,2,8
+229,user_91,2026-06-01 01:00,Education,#Students,"Worst experience ever with Education, totally unacceptable. #Students",132.0,12,6
+230,user_74,2026-01-15 11:00,Sports,#Cricket,"Great job on this Sports thing, truly impressive! #Cricket",16.0,22,1
+231,user_99,2026-06-02 16:00,Sports,#Match,"I really hate how this Sports situation turned out, so disappointing. #Match",19.0,8,5
+232,user_167,2026-04-26 18:00,Education,#Education,Feeling sad and upset about this Education outcome. #Education,13.0,1,7
+233,user_116,2026-02-08 01:00,Entertainment,#Bollywood,"Great job on this Entertainment thing, truly impressive! #Bollywood",17.0,13,1
+234,user_45,2026-05-10 20:00,Sports,#Cricket,This is a report regarding recent Sports activity. #Cricket,32.0,11,0
+235,user_157,2026-05-15 16:00,Technology,#Gadgets,"Great job on this Technology thing, truly impressive! #Gadgets",20.0,2,0
+236,user_174,2026-04-15 10:00,Politics,#Policy,Really happy and excited about this Politics news! #Policy,230.0,5,13
+237,user_25,2026-01-17 10:00,Technology,#Coding,Sharing details about the latest Technology developments. #Coding,14.0,17,11
+238,user_21,2026-02-08 10:00,Health,#MentalHealth,"This Health update made my day, absolutely brilliant! #MentalHealth",45.0,9,4
+239,user_182,2026-02-03 19:00,Politics,#Policy,This is a report regarding recent Politics activity. #Policy,21.0,39,14
+240,user_180,2026-02-02 21:00,Sports,#Sports,"Great job on this Sports thing, truly impressive! #Sports",167.0,1,10
+241,user_93,2026-04-03 00:00,Sports,#Match,"I'm so angry about this Sports decision, it's awful. #Match",139.0,2,0
+242,user_58,2026-05-05 06:00,Food,#Cooking,"This is the best Food update I've seen, fantastic work! #Cooking",67.0,12,14
+243,user_190,2026-05-10 17:00,Politics,#Politics,Really happy and excited about this Politics news! #Politics,7.0,23,1
+244,user_40,2026-06-02 12:00,Technology,#Tech,This Technology update is disappointing and poorly done. #Tech,8.0,2,13
+245,user_113,2026-02-12 23:00,Politics,#News,"This Politics update made my day, absolutely brilliant! #News",54.0,11,3
+246,user_73,2026-04-24 19:00,Technology,#Tech,Feeling sad and upset about this Technology outcome. #Tech,104.0,7,13
+247,user_95,2026-05-01 06:00,Education,#Students,"This is the best Education update I've seen, fantastic work! #Students",28.0,7,4
+248,user_108,2026-05-09 16:00,Education,#OnlineClass,"Worst experience ever with Education, totally unacceptable. #OnlineClass",17.0,20,5
+249,user_165,2026-03-06 01:00,Politics,#Election,An update on Politics matters was released today. #Election,13.0,34,3
+250,user_73,2026-05-13 03:00,Education,#Education,An update on Education matters was released today. #Education,39.0,35,7
+251,user_112,2026-05-12 04:00,Sports,#WorldCup,This is a report regarding recent Sports activity. #WorldCup,6.0,42,7
+252,user_107,2026-03-31 00:00,Sports,#WorldCup,Just sharing some Sports information today. #WorldCup,20.0,2,12
+253,user_96,2026-04-09 02:00,Technology,#Tech,Really happy and excited about this Technology news! #Tech,48.0,11,17
+254,user_10,2026-02-07 04:00,Entertainment,#Celebrity,"I absolutely love this Entertainment content, it's amazing! #Celebrity",77.0,2,2
+255,user_115,2026-06-30 15:00,Food,#Recipe,"Food news for today, check it out. #Recipe",14.0,20,0
+256,user_141,2026-02-25 04:00,Technology,#Coding,Here is an update about Technology for everyone to see. #Coding,42.0,21,16
+257,user_13,2026-03-19 03:00,Health,#Fitness,Really happy and excited about this Health news! #Fitness,,25,0
+258,user_128,2026-01-17 03:00,Entertainment,#Drama,This Entertainment update is disappointing and poorly done. #Drama,93.0,2,4
+259,user_110,2026-02-06 09:00,Technology,#Tech,This Technology update is disappointing and poorly done. #Tech,79.0,2,2
+260,user_171,2026-04-17 05:00,Technology,#Innovation,This Technology news is terrible and frustrating to hear. #Innovation,64.0,19,8
+261,user_130,2026-05-15 17:00,Sports,#Cricket,"Worst experience ever with Sports, totally unacceptable. #Cricket",59.0,11,2
+262,user_96,2026-06-12 12:00,Technology,#AI,"Great job on this Technology thing, truly impressive! #AI",21.0,3,19
+263,user_188,2026-03-30 07:00,Food,#Foodie,This is a report regarding recent Food activity. #Foodie,43.0,7,4
+264,user_91,2026-02-04 01:00,Sports,#Sports,Sharing details about the latest Sports developments. #Sports,147.0,2,7
+265,user_162,2026-06-28 15:00,Travel,#Adventure,Just sharing some Travel information today. #Adventure,35.0,14,0
+266,user_52,2026-01-10 09:00,Politics,#Policy,Here is an update about Politics for everyone to see. #Policy,,40,6
+267,user_102,2026-03-21 16:00,Technology,#Coding,Here is an update about Technology for everyone to see. #Coding,,38,9
+268,user_200,2026-03-15 11:00,Education,#Learning,"This Education update made my day, absolutely brilliant! #Learning",8.0,12,7
+269,user_112,2026-02-01 11:00,Technology,#Coding,This is a report regarding recent Technology activity. #Coding,27.0,20,21
+270,user_178,2026-02-17 15:00,Health,#Wellness,"Health news for today, check it out. #Wellness",129.0,8,0
+271,user_109,2026-01-22 23:00,Education,#Students,"Wonderful experience with Education today, feeling grateful! #Students",209.0,27,1
+272,user_27,2026-03-17 10:00,Sports,#Match,This Sports news is terrible and frustrating to hear. #Match,126.0,30,5
+273,user_184,2026-04-25 19:00,Sports,#Sports,Really happy and excited about this Sports news! #Sports,44.0,7,0
+274,user_187,2026-04-25 01:00,Health,#Wellness,"Great job on this Health thing, truly impressive! #Wellness",20.0,24,0
+275,user_20,2026-06-13 01:00,Travel,#Explore,"I'm so angry about this Travel decision, it's awful. #Explore",20.0,7,6
+276,user_156,2026-01-08 04:00,Health,#Fitness,"This Health update made my day, absolutely brilliant! #Fitness",126.0,6,3
+277,user_93,2026-06-15 11:00,Education,#Learning,"I absolutely love this Education content, it's amazing! #Learning",66.0,9,2
+278,user_116,2026-02-09 21:00,Health,#MentalHealth,Here is an update about Health for everyone to see. #MentalHealth,30.0,2,1
+279,user_94,2026-02-05 16:00,Travel,#Wanderlust,"I absolutely love this Travel content, it's amazing! #Wanderlust",34.0,8,19
+280,user_189,2026-01-30 00:00,Health,#Fitness,Really happy and excited about this Health news! #Fitness,22.0,13,8
+281,user_199,2026-01-31 08:00,Politics,#News,"I'm so angry about this Politics decision, it's awful. #News",0.0,16,1
+282,user_126,2026-03-15 22:00,Food,#Restaurant,Just sharing some Food information today. #Restaurant,162.0,2,4
+283,user_114,2026-02-14 22:00,Entertainment,#Drama,"I absolutely love this Entertainment content, it's amazing! #Drama",4.0,86,5
+284,user_139,2026-01-17 17:00,Sports,#Sports,This is a report regarding recent Sports activity. #Sports,45.0,1,11
+285,user_58,2026-04-03 16:00,Food,#Recipe,Just sharing some Food information today. #Recipe,11.0,34,1
+286,user_93,2026-05-07 00:00,Sports,#Football,Just sharing some Sports information today. #Football,10.0,0,5
+287,user_17,2026-06-06 02:00,Travel,#Vacation,This Travel update is disappointing and poorly done. #Vacation,41.0,1,11
+288,user_197,2026-05-15 13:00,Food,#Delicious,"This Food update made my day, absolutely brilliant! #Delicious",30.0,11,4
+289,user_19,2026-03-23 20:00,Health,#Fitness,Here is an update about Health for everyone to see. #Fitness,25.0,12,1
+290,user_164,2026-02-02 17:00,Education,#Students,This Education update is disappointing and poorly done. #Students,10.0,29,23
+291,user_32,2026-05-09 01:00,Politics,#Policy,Just sharing some Politics information today. #Policy,23.0,4,8
+292,user_133,2026-02-27 11:00,Politics,#Government,"This is the best Politics update I've seen, fantastic work! #Government",26.0,0,1
+293,user_71,2026-06-12 17:00,Food,#Recipe,This is a report regarding recent Food activity. #Recipe,62.0,16,0
+294,user_165,2026-01-24 16:00,Politics,#News,This Politics update is disappointing and poorly done. #News,12.0,3,8
+295,user_160,2026-02-13 21:00,Politics,#Election,This Politics update is disappointing and poorly done. #Election,0.0,1,12
+296,user_12,2026-01-08 02:00,Travel,#Travel,An update on Travel matters was released today. #Travel,9.0,15,2
+297,user_8,2026-06-08 20:00,Food,#Delicious,This Food update is disappointing and poorly done. #Delicious,5.0,4,10
+298,user_124,2026-06-14 09:00,Education,#Students,An update on Education matters was released today. #Students,96.0,26,4
+299,user_19,2026-03-18 14:00,Entertainment,#Drama,Sharing details about the latest Entertainment developments. #Drama,55.0,3,2
+300,user_88,2026-04-29 06:00,Technology,#Gadgets,"Great job on this Technology thing, truly impressive! #Gadgets",,0,0
+301,user_34,2026-03-30 12:00,Politics,#Government,"This Politics update made my day, absolutely brilliant! #Government",11.0,0,1
+302,user_32,2026-03-03 14:00,Travel,#Explore,"I really hate how this Travel situation turned out, so disappointing. #Explore",43.0,8,17
+303,user_99,2026-01-13 09:00,Food,#Foodie,This Food news is terrible and frustrating to hear. #Foodie,85.0,6,2
+304,user_81,2026-05-28 23:00,Health,#Wellness,"This is the best Health update I've seen, fantastic work! #Wellness",23.0,13,2
+305,user_79,2026-04-30 15:00,Entertainment,#Bollywood,"Entertainment news for today, check it out. #Bollywood",48.0,7,6
+306,user_56,2026-04-28 07:00,Education,#Study,"Great job on this Education thing, truly impressive! #Study",28.0,5,23
+307,user_173,2026-06-02 20:00,Travel,#Adventure,Really happy and excited about this Travel news! #Adventure,72.0,2,16
+308,user_68,2026-04-21 04:00,Education,#Education,"I absolutely love this Education content, it's amazing! #Education",33.0,33,12
+309,user_146,2026-04-13 01:00,Travel,#Travel,This is a report regarding recent Travel activity. #Travel,27.0,0,2
+310,user_116,2026-04-09 16:00,Entertainment,#Movies,Really happy and excited about this Entertainment news! #Movies,39.0,15,2
+311,user_25,2026-01-31 04:00,Food,#Restaurant,An update on Food matters was released today. #Restaurant,7.0,27,33
+312,user_51,2026-04-04 04:00,Health,#MentalHealth,Really happy and excited about this Health news! #MentalHealth,37.0,2,2
+313,user_86,2026-02-05 22:00,Health,#Health,"I really hate how this Health situation turned out, so disappointing. #Health",0.0,36,1
+314,user_84,2026-05-12 04:00,Education,#Study,This Education news is terrible and frustrating to hear. #Study,42.0,4,6
+315,user_130,2026-06-01 10:00,Travel,#Explore,"Wonderful experience with Travel today, feeling grateful! #Explore",52.0,26,1
+316,user_85,2026-01-05 11:00,Education,#OnlineClass,This is a report regarding recent Education activity. #OnlineClass,0.0,2,18
+317,user_7,2026-06-26 20:00,Sports,#Sports,An update on Sports matters was released today. #Sports,103.0,13,7
+318,user_185,2026-05-28 07:00,Education,#Study,"This Education update made my day, absolutely brilliant! #Study",54.0,2,19
+319,user_159,2026-06-11 23:00,Technology,#Innovation,This Technology news is terrible and frustrating to hear. #Innovation,27.0,7,5
+320,user_180,2026-01-09 18:00,Health,#Fitness,"This Health update made my day, absolutely brilliant! #Fitness",2.0,2,10
+321,user_106,2026-04-18 04:00,Sports,#Sports,"Great job on this Sports thing, truly impressive! #Sports",4.0,13,2
+322,user_36,2026-01-16 22:00,Entertainment,#Drama,This Entertainment update is disappointing and poorly done. #Drama,24.0,5,3
+323,user_81,2026-05-15 12:00,Entertainment,#Drama,Feeling sad and upset about this Entertainment outcome. #Drama,63.0,5,6
+324,user_174,2026-05-20 11:00,Politics,#Government,This Politics update is disappointing and poorly done. #Government,32.0,16,22
+325,user_77,2026-03-13 17:00,Food,#Recipe,This Food news is terrible and frustrating to hear. #Recipe,65.0,3,0
+326,user_177,2026-06-30 06:00,Entertainment,#Celebrity,This is a report regarding recent Entertainment activity. #Celebrity,15.0,13,0
+327,user_32,2026-03-12 09:00,Education,#Study,Really happy and excited about this Education news! #Study,34.0,13,3
+328,user_11,2026-02-07 09:00,Health,#Wellness,"Health news for today, check it out. #Wellness",73.0,1,0
+329,user_66,2026-04-24 20:00,Food,#Cooking,Here is an update about Food for everyone to see. #Cooking,65.0,10,9
+330,user_70,2026-05-24 22:00,Education,#Students,"Wonderful experience with Education today, feeling grateful! #Students",28.0,4,13
+331,user_13,2026-03-03 07:00,Politics,#News,"This Politics update made my day, absolutely brilliant! #News",80.0,17,2
+332,user_184,2026-04-16 10:00,Entertainment,#Movies,"I really hate how this Entertainment situation turned out, so disappointing. #Movies",44.0,6,0
+333,user_105,2026-05-21 05:00,Education,#Education,"This is the best Education update I've seen, fantastic work! #Education",124.0,2,24
+334,user_166,2026-03-24 09:00,Education,#Students,This Education news is terrible and frustrating to hear. #Students,29.0,3,6
+335,user_190,2026-03-01 17:00,Technology,#Innovation,Here is an update about Technology for everyone to see. #Innovation,,19,13
+336,user_102,2026-02-15 01:00,Technology,#Gadgets,Just sharing some Technology information today. #Gadgets,53.0,17,15
+337,user_77,2026-01-10 00:00,Education,#Students,"This Education update made my day, absolutely brilliant! #Students",14.0,10,2
+338,user_140,2026-04-27 20:00,Sports,#Sports,This is a report regarding recent Sports activity. #Sports,219.0,43,0
+339,user_50,2026-04-30 08:00,Education,#Study,Just sharing some Education information today. #Study,61.0,38,1
+340,user_184,2026-06-15 08:00,Sports,#WorldCup,"This Sports update made my day, absolutely brilliant! #WorldCup",41.0,37,0
+341,user_194,2026-05-26 21:00,Politics,#Government,Really happy and excited about this Politics news! #Government,59.0,5,20
+342,user_84,2026-04-20 16:00,Entertainment,#Drama,"This Entertainment update made my day, absolutely brilliant! #Drama",177.0,43,5
+343,user_83,2026-02-05 15:00,Sports,#Football,"I really hate how this Sports situation turned out, so disappointing. #Football",99.0,27,3
+344,user_85,2026-04-25 08:00,Entertainment,#Music,"Great job on this Entertainment thing, truly impressive! #Music",88.0,0,7
+345,user_93,2026-03-08 20:00,Food,#Foodie,This Food update is disappointing and poorly done. #Foodie,13.0,1,0
+346,user_104,2026-03-20 05:00,Entertainment,#Drama,"I absolutely love this Entertainment content, it's amazing! #Drama",59.0,6,10
+347,user_57,2026-04-05 19:00,Food,#Cooking,Feeling sad and upset about this Food outcome. #Cooking,3.0,5,6
+348,user_156,2026-04-27 23:00,Entertainment,#Music,"Entertainment news for today, check it out. #Music",78.0,5,7
+349,user_56,2026-05-18 21:00,Travel,#Adventure,This Travel update is disappointing and poorly done. #Adventure,108.0,14,2
+350,user_136,2026-05-15 14:00,Entertainment,#Movies,This Entertainment update is disappointing and poorly done. #Movies,1.0,30,0
+351,user_130,2026-01-16 17:00,Travel,#Travel,"Wonderful experience with Travel today, feeling grateful! #Travel",103.0,11,22
+352,user_114,2026-03-25 16:00,Entertainment,#Music,This Entertainment news is terrible and frustrating to hear. #Music,80.0,92,3
+353,user_131,2026-05-06 02:00,Sports,#Match,Feeling sad and upset about this Sports outcome. #Match,72.0,7,5
+354,user_117,2026-05-12 13:00,Education,#Learning,"Education news for today, check it out. #Learning",49.0,31,33
+355,user_66,2026-01-06 12:00,Technology,#Coding,Feeling sad and upset about this Technology outcome. #Coding,73.0,8,4
+356,user_89,2026-01-12 13:00,Technology,#AI,An update on Technology matters was released today. #AI,66.0,4,0
+357,user_74,2026-05-01 01:00,Sports,#Cricket,"I really hate how this Sports situation turned out, so disappointing. #Cricket",21.0,5,2
+358,user_115,2026-04-06 12:00,Health,#Gym,"This is the best Health update I've seen, fantastic work! #Gym",13.0,0,0
+359,user_90,2026-02-04 20:00,Health,#MentalHealth,"This Health update made my day, absolutely brilliant! #MentalHealth",219.0,8,3
+360,user_187,2026-05-16 04:00,Sports,#WorldCup,"Wonderful experience with Sports today, feeling grateful! #WorldCup",56.0,3,23
+361,user_185,2026-04-29 21:00,Entertainment,#Celebrity,Here is an update about Entertainment for everyone to see. #Celebrity,77.0,1,4
+362,user_40,2026-04-28 11:00,Health,#Fitness,This Health news is terrible and frustrating to hear. #Fitness,105.0,43,5
+363,user_108,2026-01-09 21:00,Food,#Foodie,"This Food update made my day, absolutely brilliant! #Foodie",47.0,2,37
+364,user_115,2026-06-02 01:00,Technology,#AI,"I absolutely love this Technology content, it's amazing! #AI",13.0,42,8
+365,user_139,2026-04-23 07:00,Technology,#Gadgets,"I absolutely love this Technology content, it's amazing! #Gadgets",46.0,10,2
+366,user_60,2026-05-09 09:00,Entertainment,#Music,Here is an update about Entertainment for everyone to see. #Music,9.0,3,1
+367,user_37,2026-03-02 09:00,Travel,#Explore,Feeling sad and upset about this Travel outcome. #Explore,75.0,6,0
+368,user_189,2026-05-23 18:00,Entertainment,#Movies,"Worst experience ever with Entertainment, totally unacceptable. #Movies",173.0,32,21
+369,user_89,2026-05-07 01:00,Politics,#News,"I'm so angry about this Politics decision, it's awful. #News",264.0,2,4
+370,user_77,2026-04-15 04:00,Health,#Gym,This is a report regarding recent Health activity. #Gym,70.0,17,1
+371,user_77,2026-03-03 07:00,Health,#Gym,"Wonderful experience with Health today, feeling grateful! #Gym",84.0,3,2
+372,user_143,2026-04-16 13:00,Politics,#News,Here is an update about Politics for everyone to see. #News,38.0,13,6
+373,user_21,2026-03-26 20:00,Politics,#Election,Really happy and excited about this Politics news! #Election,4.0,31,2
+374,user_69,2026-02-18 01:00,Education,#Study,Here is an update about Education for everyone to see. #Study,6.0,32,24
+375,user_195,2026-01-19 06:00,Health,#Health,This Health update is disappointing and poorly done. #Health,99.0,24,8
+376,user_49,2026-01-04 06:00,Entertainment,#Celebrity,"Worst experience ever with Entertainment, totally unacceptable. #Celebrity",40.0,1,4
+377,user_181,2026-06-28 19:00,Sports,#Football,"Sports news for today, check it out. #Football",23.0,4,10
+378,user_98,2026-03-24 09:00,Entertainment,#Bollywood,"This is the best Entertainment update I've seen, fantastic work! #Bollywood",34.0,1,1
+379,user_132,2026-03-08 11:00,Education,#Students,"Worst experience ever with Education, totally unacceptable. #Students",57.0,1,15
+380,user_95,2026-03-23 06:00,Education,#OnlineClass,Feeling sad and upset about this Education outcome. #OnlineClass,34.0,9,7
+381,user_67,2026-02-07 00:00,Travel,#Vacation,This Travel update is disappointing and poorly done. #Vacation,87.0,6,9
+382,user_146,2026-02-28 12:00,Health,#Wellness,"This is the best Health update I've seen, fantastic work! #Wellness",41.0,4,16
+383,user_186,2026-03-07 15:00,Entertainment,#Celebrity,Feeling sad and upset about this Entertainment outcome. #Celebrity,79.0,16,15
+384,user_185,2026-02-13 04:00,Education,#Students,Feeling sad and upset about this Education outcome. #Students,100.0,18,14
+385,user_20,2026-05-15 01:00,Education,#Education,"Wonderful experience with Education today, feeling grateful! #Education",59.0,17,7
+386,user_18,2026-06-11 07:00,Technology,#Tech,"Technology news for today, check it out. #Tech",69.0,2,17
+387,user_159,2026-04-06 01:00,Politics,#Policy,"Wonderful experience with Politics today, feeling grateful! #Policy",102.0,0,13
+388,user_106,2026-05-17 17:00,Education,#Education,"I really hate how this Education situation turned out, so disappointing. #Education",6.0,6,10
+389,user_5,2026-05-18 09:00,Technology,#Coding,"This Technology update made my day, absolutely brilliant! #Coding",8.0,25,14
+390,user_39,2026-01-25 16:00,Health,#Health,Just sharing some Health information today. #Health,35.0,0,2
+391,user_102,2026-04-01 08:00,Entertainment,#Celebrity,"Wonderful experience with Entertainment today, feeling grateful! #Celebrity",47.0,59,7
+392,user_179,2026-05-25 07:00,Sports,#WorldCup,"Great job on this Sports thing, truly impressive! #WorldCup",15.0,15,6
+393,user_98,2026-01-24 12:00,Entertainment,#Movies,"I absolutely love this Entertainment content, it's amazing! #Movies",75.0,1,11
+394,user_22,2026-06-29 05:00,Health,#Health,"I really hate how this Health situation turned out, so disappointing. #Health",38.0,49,3
+395,user_136,2026-05-25 03:00,Education,#Students,Sharing details about the latest Education developments. #Students,50.0,40,0
+396,user_12,2026-05-02 08:00,Technology,#Innovation,"This Technology update made my day, absolutely brilliant! #Innovation",138.0,17,0
+397,user_9,2026-05-25 21:00,Sports,#Match,"Worst experience ever with Sports, totally unacceptable. #Match",17.0,18,0
+398,user_37,2026-02-23 18:00,Politics,#Politics,This is a report regarding recent Politics activity. #Politics,43.0,6,7
+399,user_146,2026-05-25 07:00,Health,#Fitness,This is a report regarding recent Health activity. #Fitness,2.0,30,29
+400,user_36,2026-04-09 23:00,Health,#Wellness,This Health update is disappointing and poorly done. #Wellness,173.0,20,1
+401,user_60,2026-01-26 13:00,Sports,#Cricket,"Worst experience ever with Sports, totally unacceptable. #Cricket",70.0,0,0
+402,user_8,2026-04-12 10:00,Sports,#Match,"Wonderful experience with Sports today, feeling grateful! #Match",19.0,10,11
+403,user_142,2026-02-28 11:00,Food,#Delicious,"Food news for today, check it out. #Delicious",57.0,8,2
+404,user_22,2026-06-19 12:00,Health,#MentalHealth,Feeling sad and upset about this Health outcome. #MentalHealth,292.0,8,4
+405,user_40,2026-01-22 08:00,Food,#Foodie,Sharing details about the latest Food developments. #Foodie,8.0,23,9
+406,user_93,2026-04-10 10:00,Health,#Fitness,Sharing details about the latest Health developments. #Fitness,12.0,1,9
+407,user_27,2026-04-03 08:00,Sports,#WorldCup,Really happy and excited about this Sports news! #WorldCup,53.0,4,24
+408,user_132,2026-05-23 17:00,Politics,#Policy,"Great job on this Politics thing, truly impressive! #Policy",8.0,8,23
+409,user_153,2026-05-22 02:00,Health,#Wellness,"I absolutely love this Health content, it's amazing! #Wellness",27.0,15,4
+410,user_200,2026-04-16 12:00,Travel,#Explore,Here is an update about Travel for everyone to see. #Explore,16.0,62,4
+411,user_44,2026-05-27 16:00,Sports,#Football,An update on Sports matters was released today. #Football,112.0,3,1
+412,user_38,2026-03-10 15:00,Health,#Wellness,Really happy and excited about this Health news! #Wellness,,15,3
+413,user_20,2026-03-18 15:00,Sports,#WorldCup,Really happy and excited about this Sports news! #WorldCup,99.0,9,27
+414,user_51,2026-06-02 19:00,Travel,#Adventure,"This is the best Travel update I've seen, fantastic work! #Adventure",10.0,30,11
+415,user_159,2026-04-12 10:00,Education,#Education,Really happy and excited about this Education news! #Education,73.0,27,11
+416,user_167,2026-03-27 13:00,Health,#Gym,This is a report regarding recent Health activity. #Gym,49.0,2,0
+417,user_46,2026-05-03 10:00,Politics,#Election,"Wonderful experience with Politics today, feeling grateful! #Election",126.0,14,12
+418,user_84,2026-05-28 07:00,Health,#Gym,This is a report regarding recent Health activity. #Gym,32.0,1,1
+419,user_52,2026-01-30 18:00,Health,#Wellness,"Great job on this Health thing, truly impressive! #Wellness",57.0,8,1
+420,user_54,2026-04-29 22:00,Politics,#Politics,This Politics update is disappointing and poorly done. #Politics,33.0,0,6
+421,user_128,2026-04-15 21:00,Education,#Education,Sharing details about the latest Education developments. #Education,15.0,23,2
+422,user_184,2026-06-18 04:00,Politics,#Government,This Politics news is terrible and frustrating to hear. #Government,30.0,0,0
+423,user_150,2026-06-03 15:00,Health,#Gym,Here is an update about Health for everyone to see. #Gym,24.0,9,7
+424,user_93,2026-05-20 01:00,Health,#Gym,Feeling sad and upset about this Health outcome. #Gym,17.0,17,15
+425,user_157,2026-02-12 20:00,Sports,#Sports,"This is the best Sports update I've seen, fantastic work! #Sports",75.0,0,5
+426,user_28,2026-03-26 13:00,Technology,#Gadgets,Feeling sad and upset about this Technology outcome. #Gadgets,5.0,4,34
+427,user_149,2026-05-13 17:00,Technology,#Innovation,"This is the best Technology update I've seen, fantastic work! #Innovation",7.0,10,7
+428,user_177,2026-06-23 18:00,Entertainment,#Drama,"I'm so angry about this Entertainment decision, it's awful. #Drama",60.0,12,0
+429,user_107,2026-01-27 09:00,Politics,#Policy,"I absolutely love this Politics content, it's amazing! #Policy",19.0,10,0
+430,user_88,2026-03-31 09:00,Sports,#Football,"This Sports update made my day, absolutely brilliant! #Football",21.0,0,0
+431,user_25,2026-03-31 15:00,Education,#OnlineClass,An update on Education matters was released today. #OnlineClass,25.0,2,6
+432,user_12,2026-01-18 09:00,Education,#Students,"Education news for today, check it out. #Students",58.0,24,1
+433,user_190,2026-06-23 05:00,Sports,#Cricket,Really happy and excited about this Sports news! #Cricket,9.0,1,8
+434,user_110,2026-03-26 17:00,Entertainment,#Music,This Entertainment update is disappointing and poorly done. #Music,61.0,0,22
+435,user_169,2026-02-17 20:00,Education,#Learning,"Great job on this Education thing, truly impressive! #Learning",2.0,11,9
+436,user_152,2026-02-20 14:00,Health,#MentalHealth,"This Health update made my day, absolutely brilliant! #MentalHealth",102.0,18,12
+437,user_193,2026-02-22 08:00,Health,#Fitness,"This Health update made my day, absolutely brilliant! #Fitness",20.0,25,0
+438,user_51,2026-04-04 10:00,Sports,#Football,This Sports update is disappointing and poorly done. #Football,112.0,11,13
+439,user_81,2026-05-16 20:00,Education,#OnlineClass,"This Education update made my day, absolutely brilliant! #OnlineClass",30.0,15,5
+440,user_118,2026-03-31 11:00,Health,#Health,This Health update is disappointing and poorly done. #Health,65.0,1,0
+441,user_22,2026-06-07 18:00,Politics,#Government,Sharing details about the latest Politics developments. #Government,14.0,2,16
+442,user_96,2026-01-30 05:00,Politics,#Government,"This is the best Politics update I've seen, fantastic work! #Government",12.0,55,3
+443,user_99,2026-02-05 18:00,Politics,#News,"I'm so angry about this Politics decision, it's awful. #News",10.0,23,8
+444,user_45,2026-06-27 20:00,Health,#MentalHealth,"This Health update made my day, absolutely brilliant! #MentalHealth",34.0,12,10
+445,user_159,2026-03-22 14:00,Politics,#Election,This Politics news is terrible and frustrating to hear. #Election,12.0,84,29
+446,user_99,2026-02-04 06:00,Technology,#Gadgets,Here is an update about Technology for everyone to see. #Gadgets,52.0,3,9
+447,user_43,2026-04-24 15:00,Education,#OnlineClass,"I'm so angry about this Education decision, it's awful. #OnlineClass",3.0,0,2
+448,user_58,2026-01-09 08:00,Sports,#Sports,This Sports news is terrible and frustrating to hear. #Sports,31.0,30,10
+449,user_131,2026-05-07 17:00,Food,#Restaurant,"Great job on this Food thing, truly impressive! #Restaurant",67.0,8,3
+450,user_194,2026-04-04 17:00,Sports,#Match,"Worst experience ever with Sports, totally unacceptable. #Match",23.0,65,0
+451,user_27,2026-02-25 13:00,Technology,#Innovation,"Technology news for today, check it out. #Innovation",100.0,12,4
+452,user_23,2026-03-09 11:00,Entertainment,#Drama,"I absolutely love this Entertainment content, it's amazing! #Drama",64.0,10,16
+453,user_151,2026-02-23 23:00,Education,#Learning,Here is an update about Education for everyone to see. #Learning,115.0,8,2
+454,user_36,2026-02-12 19:00,Travel,#Adventure,An update on Travel matters was released today. #Adventure,44.0,36,1
+455,user_72,2026-03-31 17:00,Entertainment,#Bollywood,Here is an update about Entertainment for everyone to see. #Bollywood,48.0,14,10
+456,user_69,2026-03-16 18:00,Politics,#Government,"This Politics update made my day, absolutely brilliant! #Government",7.0,18,19
+457,user_33,2026-03-12 20:00,Sports,#Cricket,"Great job on this Sports thing, truly impressive! #Cricket",9.0,4,28
+458,user_101,2026-03-05 21:00,Politics,#Government,"This Politics update made my day, absolutely brilliant! #Government",9.0,28,5
+459,user_97,2026-06-10 13:00,Education,#Students,"This Education update made my day, absolutely brilliant! #Students",14.0,30,4
+460,user_72,2026-05-12 23:00,Education,#OnlineClass,"I absolutely love this Education content, it's amazing! #OnlineClass",36.0,6,7
+461,user_199,2026-05-29 00:00,Travel,#Explore,"I'm so angry about this Travel decision, it's awful. #Explore",8.0,7,27
+462,user_102,2026-01-17 17:00,Sports,#Sports,"Sports news for today, check it out. #Sports",14.0,16,3
+463,user_73,2026-03-10 10:00,Entertainment,#Drama,Just sharing some Entertainment information today. #Drama,74.0,2,28
+464,user_175,2026-05-05 10:00,Travel,#Wanderlust,This Travel news is terrible and frustrating to hear. #Wanderlust,30.0,4,0
+465,user_41,2026-01-05 03:00,Technology,#Gadgets,"This Technology update made my day, absolutely brilliant! #Gadgets",9.0,11,3
+466,user_167,2026-06-26 04:00,Education,#Learning,"I'm so angry about this Education decision, it's awful. #Learning",88.0,8,2
+467,user_65,2026-06-17 11:00,Food,#Foodie,Really happy and excited about this Food news! #Foodie,48.0,18,1
+468,user_161,2026-01-14 12:00,Sports,#Football,"This Sports update made my day, absolutely brilliant! #Football",9.0,0,10
+469,user_181,2026-06-17 02:00,Food,#Delicious,Just sharing some Food information today. #Delicious,54.0,9,14
+470,user_58,2026-02-03 18:00,Sports,#Cricket,"Great job on this Sports thing, truly impressive! #Cricket",81.0,13,16
+471,user_178,2026-01-31 13:00,Education,#Students,"This Education update made my day, absolutely brilliant! #Students",11.0,1,2
+472,user_27,2026-01-23 23:00,Politics,#Policy,This Politics news is terrible and frustrating to hear. #Policy,2.0,11,22
+473,user_165,2026-04-08 04:00,Sports,#Football,Really happy and excited about this Sports news! #Football,2.0,1,4
+474,user_43,2026-06-06 20:00,Politics,#Politics,"Wonderful experience with Politics today, feeling grateful! #Politics",135.0,5,5
+475,user_176,2026-04-16 19:00,Education,#Learning,"This is the best Education update I've seen, fantastic work! #Learning",2.0,2,34
+476,user_151,2026-02-05 03:00,Education,#Education,Here is an update about Education for everyone to see. #Education,167.0,0,24
+477,user_71,2026-02-05 07:00,Health,#Wellness,"Great job on this Health thing, truly impressive! #Wellness",50.0,30,4
+478,user_200,2026-06-05 09:00,Sports,#Match,"Wonderful experience with Sports today, feeling grateful! #Match",36.0,10,8
+479,user_156,2026-02-22 16:00,Technology,#Coding,Sharing details about the latest Technology developments. #Coding,7.0,0,2
+480,user_99,2026-03-03 15:00,Entertainment,#Movies,This is a report regarding recent Entertainment activity. #Movies,,3,8
+481,user_4,2026-01-19 16:00,Sports,#Match,"This Sports update made my day, absolutely brilliant! #Match",175.0,1,8
+482,user_94,2026-05-26 13:00,Travel,#Adventure,Just sharing some Travel information today. #Adventure,29.0,30,1
+483,user_4,2026-05-31 02:00,Politics,#Politics,Here is an update about Politics for everyone to see. #Politics,58.0,27,23
+484,user_161,2026-05-10 09:00,Food,#Delicious,"I absolutely love this Food content, it's amazing! #Delicious",57.0,10,7
+485,user_138,2026-06-13 17:00,Health,#Health,"I'm so angry about this Health decision, it's awful. #Health",101.0,12,0
+486,user_40,2026-05-11 06:00,Politics,#Politics,Really happy and excited about this Politics news! #Politics,133.0,17,9
+487,user_112,2026-03-21 22:00,Travel,#Travel,"This Travel update made my day, absolutely brilliant! #Travel",12.0,16,4
+488,user_157,2026-01-30 14:00,Entertainment,#Drama,"I absolutely love this Entertainment content, it's amazing! #Drama",52.0,1,8
+489,user_182,2026-01-31 00:00,Technology,#Tech,"This Technology update made my day, absolutely brilliant! #Tech",372.0,0,30
+490,user_133,2026-03-30 16:00,Politics,#Policy,Just sharing some Politics information today. #Policy,26.0,30,12
+491,user_86,2026-01-31 00:00,Food,#Cooking,"This is the best Food update I've seen, fantastic work! #Cooking",41.0,20,16
+492,user_20,2026-05-28 20:00,Health,#Wellness,"I absolutely love this Health content, it's amazing! #Wellness",25.0,5,8
+493,user_43,2026-05-08 18:00,Education,#Education,"Worst experience ever with Education, totally unacceptable. #Education",82.0,21,12
+494,user_30,2026-06-22 23:00,Travel,#Wanderlust,"I absolutely love this Travel content, it's amazing! #Wanderlust",28.0,25,1
+495,user_12,2026-01-04 07:00,Entertainment,#Movies,Here is an update about Entertainment for everyone to see. #Movies,39.0,0,3
+496,user_183,2026-01-10 17:00,Education,#Learning,"This is the best Education update I've seen, fantastic work! #Learning",22.0,7,9
+497,user_20,2026-03-23 08:00,Health,#Gym,"This is the best Health update I've seen, fantastic work! #Gym",24.0,8,2
+498,user_133,2026-02-15 07:00,Travel,#Travel,"This Travel update made my day, absolutely brilliant! #Travel",23.0,3,0
+499,user_84,2026-03-14 09:00,Technology,#Gadgets,Here is an update about Technology for everyone to see. #Gadgets,46.0,16,7
+500,user_145,2026-02-21 09:00,Sports,#Sports,"I really hate how this Sports situation turned out, so disappointing. #Sports",31.0,7,15
+501,user_127,2026-04-05 18:00,Food,#Delicious,Just sharing some Food information today. #Delicious,36.0,9,0
+502,user_105,2026-02-08 00:00,Entertainment,#Music,An update on Entertainment matters was released today. #Music,20.0,7,4
+503,user_195,2026-03-27 00:00,Technology,#AI,Really happy and excited about this Technology news! #AI,43.0,11,7
+504,user_136,2026-01-27 06:00,Health,#Wellness,Sharing details about the latest Health developments. #Wellness,72.0,25,10
+505,user_12,2026-03-13 02:00,Entertainment,#Music,"I really hate how this Entertainment situation turned out, so disappointing. #Music",155.0,0,1
+506,user_118,2026-06-29 11:00,Entertainment,#Drama,An update on Entertainment matters was released today. #Drama,0.0,15,18
+507,user_20,2026-06-13 12:00,Sports,#Football,This Sports update is disappointing and poorly done. #Football,13.0,39,0
+508,user_81,2026-03-16 08:00,Technology,#Tech,This Technology news is terrible and frustrating to hear. #Tech,136.0,6,0
+509,user_70,2026-03-23 14:00,Health,#Wellness,Sharing details about the latest Health developments. #Wellness,33.0,4,2
+510,user_40,2026-05-30 03:00,Entertainment,#Music,"This is the best Entertainment update I've seen, fantastic work! #Music",18.0,24,6
+511,user_138,2026-04-15 03:00,Sports,#Sports,"Great job on this Sports thing, truly impressive! #Sports",18.0,14,10
+512,user_68,2026-03-20 14:00,Travel,#Adventure,Just sharing some Travel information today. #Adventure,15.0,8,1
+513,user_155,2026-06-30 22:00,Sports,#Sports,"This Sports update made my day, absolutely brilliant! #Sports",9.0,17,1
+514,user_64,2026-01-24 22:00,Technology,#Tech,Really happy and excited about this Technology news! #Tech,37.0,18,0
+515,user_8,2026-03-08 05:00,Travel,#Explore,"I absolutely love this Travel content, it's amazing! #Explore",41.0,4,26
+516,user_119,2026-03-05 03:00,Health,#MentalHealth,An update on Health matters was released today. #MentalHealth,33.0,24,6
+517,user_200,2026-01-04 01:00,Sports,#Cricket,Just sharing some Sports information today. #Cricket,2.0,15,24
+518,user_166,2026-06-25 20:00,Entertainment,#Celebrity,"Great job on this Entertainment thing, truly impressive! #Celebrity",,25,17
+519,user_51,2026-01-06 02:00,Sports,#Cricket,"Worst experience ever with Sports, totally unacceptable. #Cricket",12.0,3,7
+520,user_119,2026-02-01 01:00,Education,#Students,Here is an update about Education for everyone to see. #Students,26.0,27,18
+521,user_8,2026-04-12 15:00,Technology,#Gadgets,"Wonderful experience with Technology today, feeling grateful! #Gadgets",21.0,4,12
+522,user_71,2026-02-24 05:00,Health,#Wellness,This Health news is terrible and frustrating to hear. #Wellness,16.0,25,4
+523,user_158,2026-06-07 19:00,Food,#Foodie,This Food news is terrible and frustrating to hear. #Foodie,55.0,1,7
+524,user_16,2026-05-21 15:00,Entertainment,#Drama,"I'm so angry about this Entertainment decision, it's awful. #Drama",30.0,13,1
+525,user_135,2026-02-21 20:00,Sports,#WorldCup,"This is the best Sports update I've seen, fantastic work! #WorldCup",66.0,29,1
+526,user_92,2026-04-08 22:00,Entertainment,#Movies,This Entertainment update is disappointing and poorly done. #Movies,5.0,0,8
+527,user_83,2026-05-25 16:00,Education,#Students,"I'm so angry about this Education decision, it's awful. #Students",46.0,11,2
+528,user_8,2026-06-02 07:00,Health,#Wellness,"I absolutely love this Health content, it's amazing! #Wellness",24.0,13,5
+529,user_60,2026-04-02 18:00,Food,#Restaurant,"Great job on this Food thing, truly impressive! #Restaurant",220.0,2,9
+530,user_189,2026-03-10 17:00,Politics,#Election,"This Politics update made my day, absolutely brilliant! #Election",25.0,8,10
+531,user_45,2026-04-10 11:00,Technology,#Innovation,Just sharing some Technology information today. #Innovation,58.0,71,1
+532,user_181,2026-06-01 00:00,Politics,#Government,Really happy and excited about this Politics news! #Government,5.0,19,6
+533,user_127,2026-05-25 06:00,Travel,#Vacation,An update on Travel matters was released today. #Vacation,16.0,1,0
+534,user_155,2026-01-15 07:00,Food,#Foodie,"I absolutely love this Food content, it's amazing! #Foodie",112.0,3,3
+535,user_52,2026-03-26 19:00,Entertainment,#Movies,"Great job on this Entertainment thing, truly impressive! #Movies",,6,0
+536,user_38,2026-01-16 00:00,Politics,#Government,"This is the best Politics update I've seen, fantastic work! #Government",36.0,1,12
+537,user_181,2026-01-19 11:00,Politics,#Government,An update on Politics matters was released today. #Government,13.0,11,16
+538,user_41,2026-03-24 04:00,Health,#Wellness,"Worst experience ever with Health, totally unacceptable. #Wellness",52.0,11,3
+539,user_144,2026-02-14 22:00,Health,#Wellness,"Health news for today, check it out. #Wellness",20.0,16,41
+540,user_188,2026-04-07 09:00,Travel,#Vacation,"Wonderful experience with Travel today, feeling grateful! #Vacation",54.0,12,10
+541,user_101,2026-06-29 18:00,Food,#Foodie,"This Food update made my day, absolutely brilliant! #Foodie",31.0,0,6
+542,user_145,2026-02-26 20:00,Technology,#Innovation,Really happy and excited about this Technology news! #Innovation,158.0,2,9
+543,user_89,2026-01-20 07:00,Sports,#Sports,Just sharing some Sports information today. #Sports,11.0,11,0
+544,user_68,2026-04-25 00:00,Travel,#Explore,"I absolutely love this Travel content, it's amazing! #Explore",29.0,21,3
+545,user_185,2026-03-07 03:00,Entertainment,#Celebrity,"I absolutely love this Entertainment content, it's amazing! #Celebrity",54.0,23,20
+546,user_127,2026-02-12 13:00,Technology,#Gadgets,"Great job on this Technology thing, truly impressive! #Gadgets",13.0,7,1
+547,user_167,2026-05-03 18:00,Health,#Health,"Great job on this Health thing, truly impressive! #Health",244.0,39,6
+548,user_82,2026-03-17 00:00,Entertainment,#Movies,"I absolutely love this Entertainment content, it's amazing! #Movies",92.0,11,7
+549,user_42,2026-02-13 12:00,Food,#Cooking,Here is an update about Food for everyone to see. #Cooking,4.0,21,1
+550,user_124,2026-06-02 19:00,Sports,#Sports,"I really hate how this Sports situation turned out, so disappointing. #Sports",87.0,22,9
+551,user_41,2026-06-05 13:00,Technology,#Tech,Feeling sad and upset about this Technology outcome. #Tech,1.0,5,2
+552,user_142,2026-04-15 22:00,Technology,#Tech,"This is the best Technology update I've seen, fantastic work! #Tech",22.0,1,22
+553,user_101,2026-01-25 01:00,Food,#Recipe,"Worst experience ever with Food, totally unacceptable. #Recipe",40.0,5,4
+554,user_76,2026-04-20 02:00,Education,#Education,Really happy and excited about this Education news! #Education,29.0,13,5
+555,user_75,2026-02-13 20:00,Education,#Learning,"I absolutely love this Education content, it's amazing! #Learning",125.0,10,38
+556,user_126,2026-04-12 15:00,Sports,#Sports,"I really hate how this Sports situation turned out, so disappointing. #Sports",95.0,3,21
+557,user_98,2026-02-17 11:00,Food,#Delicious,"Wonderful experience with Food today, feeling grateful! #Delicious",6.0,25,3
+558,user_68,2026-04-23 14:00,Travel,#Explore,"I absolutely love this Travel content, it's amazing! #Explore",105.0,30,13
+559,user_171,2026-02-08 22:00,Entertainment,#Movies,An update on Entertainment matters was released today. #Movies,78.0,5,0
+560,user_59,2026-04-16 18:00,Sports,#Match,Really happy and excited about this Sports news! #Match,25.0,2,9
+561,user_122,2026-05-18 21:00,Technology,#Gadgets,An update on Technology matters was released today. #Gadgets,21.0,55,8
+562,user_147,2026-01-09 16:00,Entertainment,#Drama,"I really hate how this Entertainment situation turned out, so disappointing. #Drama",86.0,2,15
+563,user_50,2026-02-12 06:00,Politics,#Election,"Great job on this Politics thing, truly impressive! #Election",128.0,10,7
+564,user_38,2026-02-21 20:00,Politics,#Policy,"I absolutely love this Politics content, it's amazing! #Policy",72.0,2,5
+565,user_143,2026-01-23 12:00,Food,#Foodie,"This Food update made my day, absolutely brilliant! #Foodie",25.0,2,3
+566,user_180,2026-04-28 00:00,Health,#MentalHealth,"Worst experience ever with Health, totally unacceptable. #MentalHealth",3.0,0,1
+567,user_150,2026-05-26 18:00,Health,#Fitness,"This is the best Health update I've seen, fantastic work! #Fitness",164.0,11,27
+568,user_89,2026-03-15 17:00,Sports,#Cricket,An update on Sports matters was released today. #Cricket,28.0,5,5
+569,user_122,2026-05-27 19:00,Health,#Gym,"This Health update made my day, absolutely brilliant! #Gym",28.0,1,8
+570,user_175,2026-06-08 19:00,Technology,#Tech,"Great job on this Technology thing, truly impressive! #Tech",12.0,14,8
+571,user_122,2026-01-13 23:00,Health,#Fitness,Really happy and excited about this Health news! #Fitness,8.0,0,12
+572,user_72,2026-03-19 09:00,Food,#Cooking,Here is an update about Food for everyone to see. #Cooking,30.0,0,42
+573,user_77,2026-02-28 04:00,Education,#Education,Sharing details about the latest Education developments. #Education,2.0,17,32
+574,user_166,2026-04-17 19:00,Education,#Students,This is a report regarding recent Education activity. #Students,13.0,2,1
+575,user_96,2026-05-05 16:00,Sports,#WorldCup,"This is the best Sports update I've seen, fantastic work! #WorldCup",18.0,1,9
+576,user_130,2026-03-21 22:00,Technology,#AI,This Technology news is terrible and frustrating to hear. #AI,3.0,10,45
+577,user_50,2026-01-08 05:00,Health,#MentalHealth,"Wonderful experience with Health today, feeling grateful! #MentalHealth",84.0,14,2
+578,user_93,2026-04-27 01:00,Entertainment,#Movies,Just sharing some Entertainment information today. #Movies,48.0,11,4
+579,user_32,2026-04-12 20:00,Entertainment,#Bollywood,"Great job on this Entertainment thing, truly impressive! #Bollywood",7.0,32,4
+580,user_122,2026-04-25 05:00,Technology,#Innovation,"Great job on this Technology thing, truly impressive! #Innovation",10.0,6,4
+581,user_99,2026-03-14 00:00,Travel,#Travel,Really happy and excited about this Travel news! #Travel,87.0,19,11
+582,user_58,2026-02-26 20:00,Technology,#Tech,"Wonderful experience with Technology today, feeling grateful! #Tech",0.0,8,5
+583,user_3,2026-01-06 21:00,Entertainment,#Bollywood,"Great job on this Entertainment thing, truly impressive! #Bollywood",0.0,4,11
+584,user_58,2026-06-03 00:00,Education,#Learning,Sharing details about the latest Education developments. #Learning,7.0,11,1
+585,user_90,2026-04-19 12:00,Food,#Cooking,"Worst experience ever with Food, totally unacceptable. #Cooking",0.0,4,29
+586,user_160,2026-06-23 16:00,Education,#Students,"Great job on this Education thing, truly impressive! #Students",80.0,48,5
+587,user_144,2026-06-19 11:00,Health,#MentalHealth,"I really hate how this Health situation turned out, so disappointing. #MentalHealth",5.0,11,4
+588,user_71,2026-01-17 10:00,Food,#Delicious,"I absolutely love this Food content, it's amazing! #Delicious",93.0,1,5
+589,user_133,2026-02-18 04:00,Travel,#Explore,This is a report regarding recent Travel activity. #Explore,8.0,5,10
+590,user_175,2026-06-19 10:00,Entertainment,#Drama,An update on Entertainment matters was released today. #Drama,32.0,7,4
+591,user_108,2026-03-17 08:00,Politics,#Policy,Sharing details about the latest Politics developments. #Policy,30.0,23,17
+592,user_88,2026-05-27 06:00,Health,#MentalHealth,"I absolutely love this Health content, it's amazing! #MentalHealth",155.0,23,3
+593,user_130,2026-06-21 11:00,Entertainment,#Drama,Feeling sad and upset about this Entertainment outcome. #Drama,58.0,8,2
+594,user_25,2026-02-16 09:00,Food,#Restaurant,Sharing details about the latest Food developments. #Restaurant,91.0,0,18
+595,user_86,2026-02-16 21:00,Education,#Study,Really happy and excited about this Education news! #Study,30.0,15,8
+596,user_96,2026-04-18 10:00,Sports,#Sports,"This is the best Sports update I've seen, fantastic work! #Sports",112.0,15,7
+597,user_163,2026-05-01 01:00,Food,#Foodie,"I'm so angry about this Food decision, it's awful. #Foodie",3.0,10,1
+598,user_98,2026-01-31 21:00,Sports,#Match,This Sports news is terrible and frustrating to hear. #Match,66.0,10,9
+599,user_105,2026-02-21 10:00,Food,#Recipe,This Food news is terrible and frustrating to hear. #Recipe,2.0,1,10
+600,user_86,2026-01-21 15:00,Education,#Learning,"This Education update made my day, absolutely brilliant! #Learning",3.0,1,0
+447,user_43,2026-04-24 15:00,Education,#OnlineClass,"I'm so angry about this Education decision, it's awful. #OnlineClass",3.0,0,2
+405,user_40,2026-01-22 08:00,Food,#Foodie,Sharing details about the latest Food developments. #Foodie,8.0,23,9
+510,user_40,2026-05-30 03:00,Entertainment,#Music,"This is the best Entertainment update I've seen, fantastic work! #Music",18.0,24,6
+456,user_69,2026-03-16 18:00,Politics,#Government,"This Politics update made my day, absolutely brilliant! #Government",7.0,18,19
+202,user_16,2026-02-03 17:00,Sports,#Sports,Feeling sad and upset about this Sports outcome. #Sports,4.0,1,4
